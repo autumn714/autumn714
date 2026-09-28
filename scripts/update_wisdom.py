@@ -65,14 +65,16 @@ def main():
     idiom_svg, proverb_svg = card(idiom, 'idiom'), card(proverb, 'proverb')
     idiom_version = sha256(idiom_svg.encode('utf-8')).hexdigest()[:12]
     proverb_version = sha256(proverb_svg.encode('utf-8')).hexdigest()[:12]
+    # Direct raw URLs preserve the version query across GitHub image redirects.
+    asset_base = 'https://raw.githubusercontent.com/autumn714/autumn714/main/assets'
     section = f'''{START}
 ### 📜 오늘의 사자성어
 
-<img src="./assets/daily-idiom.svg?v={idiom_version}" width="640" alt="{idiom_alt}" />
+<img src="{asset_base}/daily-idiom.svg?v={idiom_version}" width="640" alt="{idiom_alt}" />
 
 ### 🌿 오늘의 한국 속담
 
-<img src="./assets/daily-proverb.svg?v={proverb_version}" width="640" alt="{proverb_alt}" />
+<img src="{asset_base}/daily-proverb.svg?v={proverb_version}" width="640" alt="{proverb_alt}" />
 
 <sub>한국 시간 기준 매일 새로운 한마디 · {today}</sub>
 {END}'''
