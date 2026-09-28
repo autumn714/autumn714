@@ -30,8 +30,10 @@
 
 <p>
   <img src="./assets/stack/python.svg" width="90" height="94" alt="Python" title="Python" />
-  <img src="./assets/stack/sql.svg" width="90" height="94" alt="SQL" title="SQL" />
-  <img src="./assets/stack/bash.svg" width="90" height="94" alt="Bash" title="Bash" />
+  <img src="./assets/stack/c.svg" width="90" height="94" alt="C" title="C" />
+  <img src="./assets/stack/cplusplus.svg" width="90" height="94" alt="C++" title="C++" />
+  <img src="./assets/stack/csharp.svg" width="90" height="94" alt="C#" title="C#" />
+  <img src="./assets/stack/rust.svg" width="90" height="94" alt="Rust" title="Rust" />
 </p>
 
 #### Data Analysis
