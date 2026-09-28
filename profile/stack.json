@@ -170,16 +170,16 @@
       "ko": "데이터 분석·파이프라인",
       "tools": [
         {
-          "name": "pandas",
-          "id": "pandas",
-          "source": "Devicon",
-          "url": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/pandas/pandas-original.svg"
-        },
-        {
           "name": "NumPy",
           "id": "numpy",
           "source": "Devicon",
           "url": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/numpy/numpy-original.svg"
+        },
+        {
+          "name": "pandas",
+          "id": "pandas",
+          "source": "Devicon",
+          "url": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/pandas/pandas-original.svg"
         },
         {
           "name": "Jupyter",

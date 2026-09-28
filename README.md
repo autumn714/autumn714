@@ -64,8 +64,8 @@
 #### Data Analysis & Pipelines
 
 <p>
-  <img src="./assets/stack/pandas.svg" width="68" height="71" alt="pandas" title="pandas" />
   <img src="./assets/stack/numpy.svg" width="68" height="71" alt="NumPy" title="NumPy" />
+  <img src="./assets/stack/pandas.svg" width="68" height="71" alt="pandas" title="pandas" />
   <img src="./assets/stack/jupyter.svg" width="68" height="71" alt="Jupyter" title="Jupyter" />
   <img src="./assets/stack/scipy.svg" width="68" height="71" alt="SciPy" title="SciPy" />
   <img src="./assets/stack/polars.svg" width="68" height="71" alt="Polars" title="Polars" />
