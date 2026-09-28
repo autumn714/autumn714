@@ -30,19 +30,19 @@ def card(entry, kind):
     eyebrow = entry.get('hanja', '한국 속담')
     title_size = 26 if kind == 'idiom' else 22
     lines = wrapped(entry['meaning'])
-    height = 144 + max(0, len(lines) - 1) * 22
+    height = 120 + max(0, len(lines) - 1) * 22
     title = entry['text'] + ' — ' + entry['meaning']
     content = [
         f'<svg xmlns="http://www.w3.org/2000/svg" width="640" height="{height}" viewBox="0 0 640 {height}" role="img" aria-labelledby="title">',
         f'<title id="title">{escape(title)}</title>',
         f'<rect x=".5" y=".5" width="639" height="{height-1}" rx="10" fill="#151515" stroke="#424242"/>',
-        f'<rect x="24" y="26" width="3" height="{height-52}" rx="1.5" fill="{accent}"/>',
+        f'<rect x="24" y="20" width="3" height="{height-40}" rx="1.5" fill="{accent}"/>',
         '<g font-family="Malgun Gothic, Apple SD Gothic Neo, Noto Sans CJK KR, sans-serif">',
-        f'<text x="44" y="39" font-size="14" fill="{accent}">{escape(eyebrow)}</text>',
-        f'<text x="44" y="78" font-size="{title_size}" font-weight="700" fill="#f4f4f5">{escape(entry["text"])}</text>',
+        f'<text x="44" y="31" font-size="14" fill="{accent}">{escape(eyebrow)}</text>',
+        f'<text x="44" y="66" font-size="{title_size}" font-weight="700" fill="#f4f4f5">{escape(entry["text"])}</text>',
     ]
     for index, line in enumerate(lines):
-        content.append(f'<text x="44" y="{111+index*22}" font-size="14" fill="#c4c4cc">{escape(line)}</text>')
+        content.append(f'<text x="44" y="{94+index*22}" font-size="14" fill="#c4c4cc">{escape(line)}</text>')
     return '\n'.join(content + ['</g>', '</svg>', ''])
 
 
