@@ -2,6 +2,7 @@
 import json
 import unicodedata
 from datetime import date, datetime, timedelta, timezone
+from hashlib import sha256
 from html import escape
 from pathlib import Path
 
@@ -61,19 +62,22 @@ def main():
         raise ValueError('Invalid wisdom marker order')
     idiom_alt = escape(f'{idiom["text"]} ({idiom["hanja"]}): {idiom["meaning"]}', quote=True)
     proverb_alt = escape(f'{proverb["text"]}: {proverb["meaning"]}', quote=True)
+    idiom_svg, proverb_svg = card(idiom, 'idiom'), card(proverb, 'proverb')
+    idiom_version = sha256(idiom_svg.encode('utf-8')).hexdigest()[:12]
+    proverb_version = sha256(proverb_svg.encode('utf-8')).hexdigest()[:12]
     section = f'''{START}
 ### 📜 오늘의 사자성어
 
-<img src="./assets/daily-idiom.svg" width="640" alt="{idiom_alt}" />
+<img src="./assets/daily-idiom.svg?v={idiom_version}" width="640" alt="{idiom_alt}" />
 
 ### 🌿 오늘의 한국 속담
 
-<img src="./assets/daily-proverb.svg" width="640" alt="{proverb_alt}" />
+<img src="./assets/daily-proverb.svg?v={proverb_version}" width="640" alt="{proverb_alt}" />
 
 <sub>한국 시간 기준 매일 새로운 한마디 · {today}</sub>
 {END}'''
-    (ROOT / 'assets/daily-idiom.svg').write_text(card(idiom, 'idiom'), encoding='utf-8')
-    (ROOT / 'assets/daily-proverb.svg').write_text(card(proverb, 'proverb'), encoding='utf-8')
+    (ROOT / 'assets/daily-idiom.svg').write_text(idiom_svg, encoding='utf-8')
+    (ROOT / 'assets/daily-proverb.svg').write_text(proverb_svg, encoding='utf-8')
     readme_path.write_text(readme[:begin] + section + readme[end+len(END):], encoding='utf-8')
     print(f'Updated daily Korean idiom and proverb for {today} (KST).')
 

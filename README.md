@@ -194,11 +194,11 @@ Sunday         0 commits  ░░░░░░░░░░░░░░░░░░
 <!-- WISDOM:START -->
 ### 📜 오늘의 사자성어
 
-<img src="./assets/daily-idiom.svg" width="640" alt="일취월장 (日就月將): 날마다 달마다 꾸준히 나아지고 발전함." />
+<img src="./assets/daily-idiom.svg?v=accccd47f807" width="640" alt="일취월장 (日就月將): 날마다 달마다 꾸준히 나아지고 발전함." />
 
 ### 🌿 오늘의 한국 속담
 
-<img src="./assets/daily-proverb.svg" width="640" alt="천 리 길도 한 걸음부터: 큰일도 작은 시작에서 이루어진다." />
+<img src="./assets/daily-proverb.svg?v=a44520b8eb6e" width="640" alt="천 리 길도 한 걸음부터: 큰일도 작은 시작에서 이루어진다." />
 
 <sub>한국 시간 기준 매일 새로운 한마디 · 2026-09-29</sub>
 <!-- WISDOM:END -->
