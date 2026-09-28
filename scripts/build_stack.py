@@ -67,7 +67,7 @@ def tile(tool, data):
     splits={'Sentence Transformers':['Sentence','Transformers'],'Weights & Biases':['Weights &','Biases'],'GitHub Actions':['GitHub','Actions'],'Hugging Face':['Hugging Face'],'Apache Spark':['Apache Spark']}
     labels = splits.get(name,[name])
     for n,label in enumerate(labels):
-        parts.append(f'<text x="45" y="{79+n*12}" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="11" fill="#cad5e8">{escape(label)}</text>')
+        parts.append(f'<text x="45" y="{79+n*12}" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#cad5e8">{escape(label)}</text>')
     parts.append('</svg>')
     value='\n'.join(line.rstrip() for line in ''.join(parts).splitlines())+'\n'
     ET.fromstring(value)
@@ -86,7 +86,7 @@ def main():
     for group in manifest['groups']:
         lines += [f'#### {group["title"]}','', '<p>']
         for tool in group['tools']:
-            lines.append(f'  <img src="./assets/stack/{tool["id"]}.svg" width="90" height="94" alt="{escape(tool["name"],quote=True)}" title="{escape(tool["name"],quote=True)}" />')
+            lines.append(f'  <img src="./assets/stack/{tool["id"]}.svg" width="68" height="71" alt="{escape(tool["name"],quote=True)}" title="{escape(tool["name"],quote=True)}" />')
         lines += ['</p>','']
     lines.append('<!-- STACK:END -->')
     readme=ROOT/'README.md'

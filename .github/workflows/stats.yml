@@ -1,4 +1,4 @@
-name: Update GitHub stats
+name: Update profile statistics and daily wisdom
 
 on:
   schedule:
@@ -8,6 +8,9 @@ on:
     branches: [main]
     paths:
       - '.github/workflows/stats.yml'
+      - 'scripts/update_commit_activity.py'
+      - 'scripts/update_wisdom.py'
+      - 'profile/wisdom.json'
 
 concurrency:
   group: profile-stats
@@ -24,23 +27,25 @@ jobs:
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
 
-      - name: Generate dark statistics
+      - name: Generate animated statistics
         uses: DenverCoder1/github-readme-streak-stats@d855de1a23fe45bdda5ffbc28a6d4b80b0f107e1 # v1.8.0
         with:
-          options: user=autumn714&theme=github-dark-blue&hide_border=true&timezone=Asia/Seoul&disable_animations=true
-          path: assets/streak-dark.svg
+          options: user=autumn714&theme=dark&mode=weekly&timezone=Asia/Seoul&disable_animations=false
+          path: assets/streak.svg
 
-      - name: Generate light statistics
-        uses: DenverCoder1/github-readme-streak-stats@d855de1a23fe45bdda5ffbc28a6d4b80b0f107e1 # v1.8.0
-        with:
-          options: user=autumn714&theme=default&hide_border=true&timezone=Asia/Seoul&disable_animations=true
-          path: assets/streak-light.svg
+      - name: Update commit time and weekday charts
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python scripts/update_commit_activity.py
+
+      - name: Rotate Korean idiom and proverb
+        run: python scripts/update_wisdom.py
 
       - name: Normalize generated SVG whitespace
         run: |
           python - <<'PY'
           from pathlib import Path
-          for path in Path('assets').glob('streak-*.svg'):
+          for path in Path('assets').glob('streak.svg'):
               lines = path.read_text(encoding='utf-8').splitlines()
               path.write_text('\n'.join(line.rstrip() for line in lines) + '\n', encoding='utf-8')
           PY
@@ -49,8 +54,8 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/streak-dark.svg assets/streak-light.svg
+          git add assets/streak.svg assets/daily-idiom.svg assets/daily-proverb.svg README.md profile/commit-activity.json
           git diff --cached --quiet && exit 0
-          git commit -m "Update GitHub streak statistics"
+          git commit -m "Update profile statistics and daily wisdom"
           git pull --rebase origin main
           git push origin HEAD:main

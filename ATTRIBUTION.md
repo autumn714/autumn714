@@ -15,6 +15,10 @@ Technology selection and exact logo source URLs are recorded in [`profile/stack.
 - Product names and marks identify the selected technologies and remain the property of their respective owners; no endorsement is implied.
 - GitHub streak cards are generated using [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats), pinned to revision `d855de1a23fe45bdda5ffbc28a6d4b80b0f107e1`. [MIT notice](licenses/streak-stats-MIT.txt).
 
+Commit time and weekday charts are calculated from autumn714-authored commits on the default branches of owned public repositories. Author timestamps are converted to KST and duplicate commit SHAs are counted once. This scope differs from GitHub's contribution-based streak card.
+
+Daily Korean idioms and proverbs are traditional expressions. The short Korean explanations are paraphrases prepared for this profile. Entries live in `profile/wisdom.json`; `scripts/update_wisdom.py` selects one of each by the KST date and creates the local SVG cards. No external quote or joke service is used.
+
 ## Previous Flow Field artwork
 
 The profile banner in `assets/flow-field.svg` adapts the Flow Field template from [beydemirfurkan/awesome-github-profile](https://github.com/beydemirfurkan/awesome-github-profile/tree/118ebdcf24265333f52be2ca30c3bba9773ef628/templates/12-generative/flow-field).

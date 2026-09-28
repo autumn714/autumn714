@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="144" viewBox="0 0 640 144" role="img" aria-labelledby="title">
+<title id="title">천 리 길도 한 걸음부터 — 큰일도 작은 시작에서 이루어진다.</title>
+<rect x=".5" y=".5" width="639" height="143" rx="10" fill="#151515" stroke="#424242"/>
+<rect x="24" y="26" width="3" height="92" rx="1.5" fill="#76c7b7"/>
+<g font-family="Malgun Gothic, Apple SD Gothic Neo, Noto Sans CJK KR, sans-serif">
+<text x="44" y="39" font-size="14" fill="#76c7b7">한국 속담</text>
+<text x="44" y="78" font-size="22" font-weight="700" fill="#f4f4f5">천 리 길도 한 걸음부터</text>
+<text x="44" y="111" font-size="14" fill="#c4c4cc">큰일도 작은 시작에서 이루어진다.</text>
+</g>
+</svg>
