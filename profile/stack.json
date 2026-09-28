@@ -1,0 +1,409 @@
+{
+  "selected_on": "2026-09-29",
+  "count": 53,
+  "excluded": [
+    "R",
+    "OpenAI API",
+    "Chroma",
+    "Pinecone",
+    "Power BI",
+    "Tableau",
+    "Excel",
+    "DuckDB"
+  ],
+  "groups": [
+    {
+      "title": "Languages",
+      "ko": "언어",
+      "tools": [
+        {
+          "name": "Python",
+          "id": "python",
+          "source": "Devicon",
+          "url": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/python/python-original.svg"
+        },
+        {
+          "name": "SQL",
+          "id": "sql",
+          "source": "Text",
+          "url": null
+        },
+        {
+          "name": "Bash",
+          "id": "bash",
+          "source": "Devicon",
+          "url": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/bash/bash-original.svg"
+        }
+      ]
+    },
+    {
+      "title": "Data Analysis",
+      "ko": "데이터 분석",
+      "tools": [
+        {
+          "name": "pandas",
+          "id": "pandas",
+          "source": "Devicon",
+          "url": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/pandas/pandas-original.svg"
+        },
+        {
+          "name": "NumPy",
+          "id": "numpy",
+          "source": "Devicon",
+          "url": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/numpy/numpy-original.svg"
+        },
+        {
+          "name": "Jupyter",
+          "id": "jupyter",
+          "source": "Devicon",
+          "url": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/jupyter/jupyter-original.svg"
+        },
+        {
+          "name": "SciPy",
+          "id": "scipy",
+          "source": "Simple Icons",
+          "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/d4e6ba93e48f178898707f0145ec285f28b64b38/icons/scipy.svg",
+          "color": "#8CAAE6"
+        },
+        {
+          "name": "Polars",
+          "id": "polars",
+          "source": "Simple Icons",
+          "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/d4e6ba93e48f178898707f0145ec285f28b64b38/icons/polars.svg",
+          "color": "#0075FF"
+        }
+      ]
+    },
+    {
+      "title": "Machine Learning",
+      "ko": "머신러닝",
+      "tools": [
+        {
+          "name": "scikit-learn",
+          "id": "scikit-learn",
+          "source": "Devicon",
+          "url": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/scikitlearn/scikitlearn-original.svg"
+        },
+        {
+          "name": "XGBoost",
+          "id": "xgboost",
+          "source": "Official project",
+          "url": "https://xgboost.ai/images/logo/xgboost-logo-trimmed.png"
+        },
+        {
+          "name": "LightGBM",
+          "id": "lightgbm",
+          "source": "Official project",
+          "url": "https://raw.githubusercontent.com/lightgbm-org/LightGBM/main/docs/logo/LightGBM-logo-hex.svg"
+        },
+        {
+          "name": "CatBoost",
+          "id": "catboost",
+          "source": "Official project",
+          "url": "https://raw.githubusercontent.com/catboost/catboost/master/logo/catboost.png"
+        },
+        {
+          "name": "Optuna",
+          "id": "optuna",
+          "source": "Simple Icons",
+          "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/d4e6ba93e48f178898707f0145ec285f28b64b38/icons/optuna.svg",
+          "color": "#002C76"
+        }
+      ]
+    },
+    {
+      "title": "Deep Learning & Computer Vision",
+      "ko": "딥러닝·컴퓨터 비전",
+      "tools": [
+        {
+          "name": "PyTorch",
+          "id": "pytorch",
+          "source": "Devicon",
+          "url": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/pytorch/pytorch-original.svg"
+        },
+        {
+          "name": "OpenCV",
+          "id": "opencv",
+          "source": "Devicon",
+          "url": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/opencv/opencv-original.svg"
+        },
+        {
+          "name": "TensorFlow",
+          "id": "tensorflow",
+          "source": "Devicon",
+          "url": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/tensorflow/tensorflow-original.svg"
+        },
+        {
+          "name": "Keras",
+          "id": "keras",
+          "source": "Devicon",
+          "url": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/keras/keras-original.svg"
+        },
+        {
+          "name": "CUDA",
+          "id": "cuda",
+          "source": "Simple Icons",
+          "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/d4e6ba93e48f178898707f0145ec285f28b64b38/icons/nvidia.svg",
+          "color": "#76B900"
+        }
+      ]
+    },
+    {
+      "title": "LLM & Generative AI",
+      "ko": "LLM·생성형 AI",
+      "tools": [
+        {
+          "name": "Hugging Face",
+          "id": "hugging-face",
+          "source": "Simple Icons",
+          "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/d4e6ba93e48f178898707f0145ec285f28b64b38/icons/huggingface.svg",
+          "color": "#FFD21E"
+        },
+        {
+          "name": "vLLM",
+          "id": "vllm",
+          "source": "Simple Icons",
+          "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/d4e6ba93e48f178898707f0145ec285f28b64b38/icons/vllm.svg",
+          "color": "#30A2FF"
+        },
+        {
+          "name": "LangChain",
+          "id": "langchain",
+          "source": "Simple Icons",
+          "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/d4e6ba93e48f178898707f0145ec285f28b64b38/icons/langchain.svg",
+          "color": "#7FC8FF"
+        },
+        {
+          "name": "LangGraph",
+          "id": "langgraph",
+          "source": "Simple Icons",
+          "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/d4e6ba93e48f178898707f0145ec285f28b64b38/icons/langgraph.svg",
+          "color": "#7FC8FF"
+        },
+        {
+          "name": "LlamaIndex",
+          "id": "llamaindex",
+          "source": "Official project",
+          "url": "https://raw.githubusercontent.com/run-llama/llama_index/main/docs/api_reference/api_reference/_static/assets/LlamaLogoBrowserTab.png"
+        },
+        {
+          "name": "Ollama",
+          "id": "ollama",
+          "source": "Simple Icons",
+          "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/d4e6ba93e48f178898707f0145ec285f28b64b38/icons/ollama.svg",
+          "color": "#000000"
+        },
+        {
+          "name": "Sentence Transformers",
+          "id": "sentence-transformers",
+          "source": "Official project",
+          "url": "https://raw.githubusercontent.com/UKPLab/sentence-transformers/main/docs/img/logo.svg"
+        }
+      ]
+    },
+    {
+      "title": "Vector Search & RAG",
+      "ko": "벡터 검색·RAG",
+      "tools": [
+        {
+          "name": "FAISS",
+          "id": "faiss",
+          "source": "Text",
+          "url": null
+        },
+        {
+          "name": "Qdrant",
+          "id": "qdrant",
+          "source": "Simple Icons",
+          "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/d4e6ba93e48f178898707f0145ec285f28b64b38/icons/qdrant.svg",
+          "color": "#DC244C"
+        },
+        {
+          "name": "Milvus",
+          "id": "milvus",
+          "source": "Simple Icons",
+          "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/d4e6ba93e48f178898707f0145ec285f28b64b38/icons/milvus.svg",
+          "color": "#00A1EA"
+        }
+      ]
+    },
+    {
+      "title": "Visualization",
+      "ko": "시각화",
+      "tools": [
+        {
+          "name": "Matplotlib",
+          "id": "matplotlib",
+          "source": "Devicon",
+          "url": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/matplotlib/matplotlib-original.svg"
+        },
+        {
+          "name": "Seaborn",
+          "id": "seaborn",
+          "source": "Official project",
+          "url": "https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-mark-lightbg.svg"
+        },
+        {
+          "name": "Plotly",
+          "id": "plotly",
+          "source": "Devicon",
+          "url": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/plotly/plotly-original.svg"
+        },
+        {
+          "name": "Streamlit",
+          "id": "streamlit",
+          "source": "Devicon",
+          "url": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/streamlit/streamlit-original.svg"
+        }
+      ]
+    },
+    {
+      "title": "Databases & Warehouses",
+      "ko": "데이터베이스·웨어하우스",
+      "tools": [
+        {
+          "name": "PostgreSQL",
+          "id": "postgresql",
+          "source": "Devicon",
+          "url": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/postgresql/postgresql-original.svg"
+        },
+        {
+          "name": "MySQL",
+          "id": "mysql",
+          "source": "Devicon",
+          "url": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/mysql/mysql-original.svg"
+        },
+        {
+          "name": "SQLite",
+          "id": "sqlite",
+          "source": "Devicon",
+          "url": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/sqlite/sqlite-original.svg"
+        },
+        {
+          "name": "MongoDB",
+          "id": "mongodb",
+          "source": "Devicon",
+          "url": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/mongodb/mongodb-original.svg"
+        },
+        {
+          "name": "BigQuery",
+          "id": "bigquery",
+          "source": "Simple Icons",
+          "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/d4e6ba93e48f178898707f0145ec285f28b64b38/icons/googlebigquery.svg",
+          "color": "#669DF6"
+        },
+        {
+          "name": "Snowflake",
+          "id": "snowflake",
+          "source": "Simple Icons",
+          "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/d4e6ba93e48f178898707f0145ec285f28b64b38/icons/snowflake.svg",
+          "color": "#29B5E8"
+        }
+      ]
+    },
+    {
+      "title": "Data Pipelines",
+      "ko": "데이터 파이프라인",
+      "tools": [
+        {
+          "name": "Apache Spark",
+          "id": "apache-spark",
+          "source": "Devicon",
+          "url": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/apachespark/apachespark-original.svg"
+        },
+        {
+          "name": "Airflow",
+          "id": "airflow",
+          "source": "Devicon",
+          "url": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/apacheairflow/apacheairflow-original.svg"
+        },
+        {
+          "name": "dbt",
+          "id": "dbt",
+          "source": "Official project",
+          "url": "https://raw.githubusercontent.com/dbt-labs/docs.getdbt.com/current/website/static/img/dbt-logo.svg"
+        },
+        {
+          "name": "Kafka",
+          "id": "kafka",
+          "source": "Devicon",
+          "url": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/apachekafka/apachekafka-original.svg"
+        }
+      ]
+    },
+    {
+      "title": "Development, Deployment & Operations",
+      "ko": "개발·배포·운영",
+      "tools": [
+        {
+          "name": "FastAPI",
+          "id": "fastapi",
+          "source": "Devicon",
+          "url": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/fastapi/fastapi-original.svg"
+        },
+        {
+          "name": "Docker",
+          "id": "docker",
+          "source": "Devicon",
+          "url": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/docker/docker-original.svg"
+        },
+        {
+          "name": "Git",
+          "id": "git",
+          "source": "Devicon",
+          "url": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/git/git-original.svg"
+        },
+        {
+          "name": "GitHub Actions",
+          "id": "github-actions",
+          "source": "Devicon",
+          "url": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/githubactions/githubactions-original.svg"
+        },
+        {
+          "name": "MLflow",
+          "id": "mlflow",
+          "source": "Simple Icons",
+          "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/d4e6ba93e48f178898707f0145ec285f28b64b38/icons/mlflow.svg",
+          "color": "#0194E2"
+        },
+        {
+          "name": "Weights & Biases",
+          "id": "weights-and-biases",
+          "source": "Simple Icons",
+          "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/d4e6ba93e48f178898707f0145ec285f28b64b38/icons/weightsandbiases.svg",
+          "color": "#FFBE00"
+        },
+        {
+          "name": "AWS",
+          "id": "aws",
+          "source": "Devicon",
+          "url": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+        },
+        {
+          "name": "GCP",
+          "id": "gcp",
+          "source": "Devicon",
+          "url": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/googlecloud/googlecloud-original.svg"
+        },
+        {
+          "name": "Azure",
+          "id": "azure",
+          "source": "Devicon",
+          "url": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/azure/azure-original.svg"
+        },
+        {
+          "name": "Linux",
+          "id": "linux",
+          "source": "Devicon",
+          "url": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/linux/linux-original.svg"
+        },
+        {
+          "name": "Kubernetes",
+          "id": "kubernetes",
+          "source": "Devicon",
+          "url": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/kubernetes/kubernetes-original.svg"
+        }
+      ]
+    }
+  ]
+}

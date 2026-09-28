@@ -1,83 +1,161 @@
-<img src="./assets/profile-hero.svg" width="100%" alt="autumn — Python · AI · Image Processing" />
+# Hi there, I'm autumn! 👋
 
-<p align="center">
-  <b>Python과 AI로 유용한 도구를 만들고, 배운 내용을 기록합니다.</b><br />
-  번역 도구부터 이미지 처리, 알고리즘과 모델 구현까지.
-</p>
-
-<p align="center">
-  <a href="#projects">Projects</a> &nbsp; · &nbsp;
-  <a href="#stack">Stack</a> &nbsp; · &nbsp;
-  <a href="#learning">Learning</a> &nbsp; · &nbsp;
-  <a href="https://github.com/autumn714?tab=repositories">All repositories ↗</a>
-</p>
-
-## Projects
-
-<a href="https://github.com/autumn714/translator"><img src="./assets/translator-cover.svg" width="100%" alt="Translator 개념도: 원문 → 용어집 → 번역" /></a>
-
-### 01 &nbsp; Translator
-
-**입력을 멈추면 번역이 시작되는 다국어 번역 앱.**
-
-원문과 번역을 나란히 비교하고, 사용자 용어집으로 반복되는 표현을 관리합니다. 긴 입력은 나누어 처리하며, 새로운 입력이 들어오면 이전 요청을 취소합니다.
-
-`Python` `FastAPI` `vLLM` `Docker Compose`
-
-**[코드 보기 ↗](https://github.com/autumn714/translator)** &nbsp; · &nbsp; [기능·실행 안내](https://github.com/autumn714/translator#readme)
-
-<br />
-
-<a href="https://github.com/autumn714/Image-Project"><img src="./assets/image-processing-cover.svg" width="100%" alt="Image Project 개념도: 픽셀 → 필터 → 윤곽선" /></a>
-
-### 02 &nbsp; Image Project
-
-**선택한 영역에 필터를 적용하는 이미지 처리 프로그램.**
-
-마우스로 이미지 영역을 선택하고 블러·샤프닝을 적용합니다. Prewitt, Sobel, Laplacian 필터로 이미지의 윤곽선을 탐색합니다.
-
-`Python` `OpenCV` `NumPy`
-
-**[코드 보기 ↗](https://github.com/autumn714/Image-Project)** &nbsp; · &nbsp; [프로젝트 안내](https://github.com/autumn714/Image-Project#readme)
-
-<br />
-
-### 03 &nbsp; 공모함
-
-공모전 수집·중복 정리·참여 상태 관리를 위한 웹 앱의 배포 저장소입니다.
-
-**[웹에서 열기 ↗](https://autumn714.github.io/gongmoham-web/)** (이메일 로그인 필요) &nbsp; · &nbsp; [배포 저장소](https://github.com/autumn714/gongmoham-web)
-
-## Stack
+### AI Engineer · Data Analyst
 
 <p>
-  <img src="./assets/tech-python.svg" alt="Python" height="38" />
-  <img src="./assets/tech-fastapi.svg" alt="FastAPI" height="38" />
-  <img src="./assets/tech-vllm.svg" alt="vLLM" height="38" /><br />
-  <img src="./assets/tech-docker.svg" alt="Docker" height="38" />
-  <img src="./assets/tech-opencv.svg" alt="OpenCV" height="38" />
-  <img src="./assets/tech-numpy.svg" alt="NumPy" height="38" />
+  <a href="#about-me">About Me</a> ·
+  <a href="#tech-stack">Tech Stack</a> ·
+  <a href="#github-stats">GitHub Stats</a> ·
+  <a href="#selected-projects">Projects</a>
 </p>
 
-번역 서비스에는 **FastAPI · vLLM · Docker Compose**, 이미지 처리에는 **OpenCV · NumPy**를 사용했습니다.
+<img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="210" alt="Animated developer typing at a computer" />
 
-## Learning
+### About Me
 
-### 모델을 직접 구현하며
+- 🤖 **AI Engineer · Data Analyst**
+- 🛠 I build useful tools with **Python and AI**.
+- 🌐 My projects include a **multilingual translator** and a competition tracking web app.
+- 🖼 I explore **image processing with OpenCV**.
+- 📚 I learn by implementing models and solving algorithm problems.
 
-[**AI ↗**](https://github.com/autumn714/AI) — 은닉 마르코프 모델과 정보 이론을 Python으로 구현한 학습 기록입니다.
-
-`Hidden Markov Model` `Entropy` `Python`
-
-### 문제를 풀고 정리하며
-
-[**Algorithm ↗**](https://github.com/autumn714/Algorithm) — 백준 문제 풀이와 자료구조·알고리즘 학습 기록을 모았습니다.
-
-`Problem Solving` `Data Structures` `Algorithms`
+<br clear="both" />
 
 ---
 
+### Tech Stack
+
+<!-- STACK:START -->
+#### Languages
+
+<p>
+  <img src="./assets/stack/python.svg" width="90" height="94" alt="Python" title="Python" />
+  <img src="./assets/stack/sql.svg" width="90" height="94" alt="SQL" title="SQL" />
+  <img src="./assets/stack/bash.svg" width="90" height="94" alt="Bash" title="Bash" />
+</p>
+
+#### Data Analysis
+
+<p>
+  <img src="./assets/stack/pandas.svg" width="90" height="94" alt="pandas" title="pandas" />
+  <img src="./assets/stack/numpy.svg" width="90" height="94" alt="NumPy" title="NumPy" />
+  <img src="./assets/stack/jupyter.svg" width="90" height="94" alt="Jupyter" title="Jupyter" />
+  <img src="./assets/stack/scipy.svg" width="90" height="94" alt="SciPy" title="SciPy" />
+  <img src="./assets/stack/polars.svg" width="90" height="94" alt="Polars" title="Polars" />
+</p>
+
+#### Machine Learning
+
+<p>
+  <img src="./assets/stack/scikit-learn.svg" width="90" height="94" alt="scikit-learn" title="scikit-learn" />
+  <img src="./assets/stack/xgboost.svg" width="90" height="94" alt="XGBoost" title="XGBoost" />
+  <img src="./assets/stack/lightgbm.svg" width="90" height="94" alt="LightGBM" title="LightGBM" />
+  <img src="./assets/stack/catboost.svg" width="90" height="94" alt="CatBoost" title="CatBoost" />
+  <img src="./assets/stack/optuna.svg" width="90" height="94" alt="Optuna" title="Optuna" />
+</p>
+
+#### Deep Learning & Computer Vision
+
+<p>
+  <img src="./assets/stack/pytorch.svg" width="90" height="94" alt="PyTorch" title="PyTorch" />
+  <img src="./assets/stack/opencv.svg" width="90" height="94" alt="OpenCV" title="OpenCV" />
+  <img src="./assets/stack/tensorflow.svg" width="90" height="94" alt="TensorFlow" title="TensorFlow" />
+  <img src="./assets/stack/keras.svg" width="90" height="94" alt="Keras" title="Keras" />
+  <img src="./assets/stack/cuda.svg" width="90" height="94" alt="CUDA" title="CUDA" />
+</p>
+
+#### LLM & Generative AI
+
+<p>
+  <img src="./assets/stack/hugging-face.svg" width="90" height="94" alt="Hugging Face" title="Hugging Face" />
+  <img src="./assets/stack/vllm.svg" width="90" height="94" alt="vLLM" title="vLLM" />
+  <img src="./assets/stack/langchain.svg" width="90" height="94" alt="LangChain" title="LangChain" />
+  <img src="./assets/stack/langgraph.svg" width="90" height="94" alt="LangGraph" title="LangGraph" />
+  <img src="./assets/stack/llamaindex.svg" width="90" height="94" alt="LlamaIndex" title="LlamaIndex" />
+  <img src="./assets/stack/ollama.svg" width="90" height="94" alt="Ollama" title="Ollama" />
+  <img src="./assets/stack/sentence-transformers.svg" width="90" height="94" alt="Sentence Transformers" title="Sentence Transformers" />
+</p>
+
+#### Vector Search & RAG
+
+<p>
+  <img src="./assets/stack/faiss.svg" width="90" height="94" alt="FAISS" title="FAISS" />
+  <img src="./assets/stack/qdrant.svg" width="90" height="94" alt="Qdrant" title="Qdrant" />
+  <img src="./assets/stack/milvus.svg" width="90" height="94" alt="Milvus" title="Milvus" />
+</p>
+
+#### Visualization
+
+<p>
+  <img src="./assets/stack/matplotlib.svg" width="90" height="94" alt="Matplotlib" title="Matplotlib" />
+  <img src="./assets/stack/seaborn.svg" width="90" height="94" alt="Seaborn" title="Seaborn" />
+  <img src="./assets/stack/plotly.svg" width="90" height="94" alt="Plotly" title="Plotly" />
+  <img src="./assets/stack/streamlit.svg" width="90" height="94" alt="Streamlit" title="Streamlit" />
+</p>
+
+#### Databases & Warehouses
+
+<p>
+  <img src="./assets/stack/postgresql.svg" width="90" height="94" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="./assets/stack/mysql.svg" width="90" height="94" alt="MySQL" title="MySQL" />
+  <img src="./assets/stack/sqlite.svg" width="90" height="94" alt="SQLite" title="SQLite" />
+  <img src="./assets/stack/mongodb.svg" width="90" height="94" alt="MongoDB" title="MongoDB" />
+  <img src="./assets/stack/bigquery.svg" width="90" height="94" alt="BigQuery" title="BigQuery" />
+  <img src="./assets/stack/snowflake.svg" width="90" height="94" alt="Snowflake" title="Snowflake" />
+</p>
+
+#### Data Pipelines
+
+<p>
+  <img src="./assets/stack/apache-spark.svg" width="90" height="94" alt="Apache Spark" title="Apache Spark" />
+  <img src="./assets/stack/airflow.svg" width="90" height="94" alt="Airflow" title="Airflow" />
+  <img src="./assets/stack/dbt.svg" width="90" height="94" alt="dbt" title="dbt" />
+  <img src="./assets/stack/kafka.svg" width="90" height="94" alt="Kafka" title="Kafka" />
+</p>
+
+#### Development, Deployment & Operations
+
+<p>
+  <img src="./assets/stack/fastapi.svg" width="90" height="94" alt="FastAPI" title="FastAPI" />
+  <img src="./assets/stack/docker.svg" width="90" height="94" alt="Docker" title="Docker" />
+  <img src="./assets/stack/git.svg" width="90" height="94" alt="Git" title="Git" />
+  <img src="./assets/stack/github-actions.svg" width="90" height="94" alt="GitHub Actions" title="GitHub Actions" />
+  <img src="./assets/stack/mlflow.svg" width="90" height="94" alt="MLflow" title="MLflow" />
+  <img src="./assets/stack/weights-and-biases.svg" width="90" height="94" alt="Weights &amp; Biases" title="Weights &amp; Biases" />
+  <img src="./assets/stack/aws.svg" width="90" height="94" alt="AWS" title="AWS" />
+  <img src="./assets/stack/gcp.svg" width="90" height="94" alt="GCP" title="GCP" />
+  <img src="./assets/stack/azure.svg" width="90" height="94" alt="Azure" title="Azure" />
+  <img src="./assets/stack/linux.svg" width="90" height="94" alt="Linux" title="Linux" />
+  <img src="./assets/stack/kubernetes.svg" width="90" height="94" alt="Kubernetes" title="Kubernetes" />
+</p>
+
+<!-- STACK:END -->
+
+---
+
+### GitHub Stats
+
 <p align="center">
-  <b>Build. Explore. Learn.</b><br />
-  <a href="https://github.com/autumn714?tab=repositories">저장소 둘러보기 ↗</a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/streak-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/streak-light.svg" />
+    <img src="./assets/streak-light.svg" alt="autumn714's total contributions, current streak and longest streak" />
+  </picture>
+</p>
+
+---
+
+### Selected Projects
+
+- 🌐 **[Translator](https://github.com/autumn714/translator)** — `Python` `FastAPI` `vLLM`<br />
+  입력 후 자동 번역, 원문·번역 대조, 사용자 용어집을 지원합니다.
+- 🖼 **[Image Project](https://github.com/autumn714/Image-Project)** — `Python` `OpenCV` `NumPy`<br />
+  선택한 이미지 영역에 블러·샤프닝·윤곽선 필터를 적용합니다.
+- 🗂 **[공모함](https://autumn714.github.io/gongmoham-web/)** — [웹 배포 저장소](https://github.com/autumn714/gongmoham-web)<br />
+  공모전 수집·중복 정리·참여 상태를 관리합니다. 이메일 로그인이 필요합니다.
+
+📚 **Learning notes:** [AI & Information Theory](https://github.com/autumn714/AI) · [Algorithms](https://github.com/autumn714/Algorithm)
+
+<p align="center">
+  <a href="https://github.com/autumn714?tab=repositories">Explore all repositories ↗</a>
 </p>

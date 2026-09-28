@@ -1,0 +1,56 @@
+name: Update GitHub stats
+
+on:
+  schedule:
+    - cron: '17 3 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/stats.yml'
+
+concurrency:
+  group: profile-stats
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  stats:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
+
+      - name: Generate dark statistics
+        uses: DenverCoder1/github-readme-streak-stats@d855de1a23fe45bdda5ffbc28a6d4b80b0f107e1 # v1.8.0
+        with:
+          options: user=autumn714&theme=github-dark-blue&hide_border=true&timezone=Asia/Seoul&disable_animations=true
+          path: assets/streak-dark.svg
+
+      - name: Generate light statistics
+        uses: DenverCoder1/github-readme-streak-stats@d855de1a23fe45bdda5ffbc28a6d4b80b0f107e1 # v1.8.0
+        with:
+          options: user=autumn714&theme=default&hide_border=true&timezone=Asia/Seoul&disable_animations=true
+          path: assets/streak-light.svg
+
+      - name: Normalize generated SVG whitespace
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          for path in Path('assets').glob('streak-*.svg'):
+              lines = path.read_text(encoding='utf-8').splitlines()
+              path.write_text('\n'.join(line.rstrip() for line in lines) + '\n', encoding='utf-8')
+          PY
+
+      - name: Commit updated statistics
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/streak-dark.svg assets/streak-light.svg
+          git diff --cached --quiet && exit 0
+          git commit -m "Update GitHub streak statistics"
+          git pull --rebase origin main
+          git push origin HEAD:main
