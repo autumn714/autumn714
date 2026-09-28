@@ -9,7 +9,7 @@
   <a href="#selected-projects">Projects</a>
 </p>
 
-<img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="210" alt="Animated developer typing at a computer" />
+<img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28%" alt="Animated developer typing at a computer" />
 
 ### About Me
 
