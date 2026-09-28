@@ -53,7 +53,7 @@
 <p>
   <img src="./assets/tech-python.svg" alt="Python" height="38" />
   <img src="./assets/tech-fastapi.svg" alt="FastAPI" height="38" />
-  <img src="./assets/tech-vllm.svg" alt="vLLM" height="38" />
+  <img src="./assets/tech-vllm.svg" alt="vLLM" height="38" /><br />
   <img src="./assets/tech-docker.svg" alt="Docker" height="38" />
   <img src="./assets/tech-opencv.svg" alt="OpenCV" height="38" />
   <img src="./assets/tech-numpy.svg" alt="NumPy" height="38" />
