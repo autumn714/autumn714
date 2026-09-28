@@ -78,7 +78,7 @@ def main():
     OUT.mkdir(parents=True,exist_ok=True)
     manifest=json.loads((ROOT/'profile/stack.json').read_text(encoding='utf-8'))
     tools=[tool for group in manifest['groups'] for tool in group['tools']]
-    assert len(tools)==manifest['count']==53
+    assert len(tools)==manifest['count']
     with ThreadPoolExecutor(max_workers=8) as pool:
         for tool,data in pool.map(fetch,tools):
             tile(tool,data)

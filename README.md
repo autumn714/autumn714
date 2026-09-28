@@ -1,4 +1,4 @@
-# Hi there, I'm autumn! 👋
+# Hi there, I'm arima! 👋
 
 ### AI Engineer · Data Analyst
 
