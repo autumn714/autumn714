@@ -1,6 +1,6 @@
 {
   "selected_on": "2026-09-29",
-  "count": 55,
+  "count": 51,
   "excluded": [
     "R",
     "OpenAI API",
@@ -11,7 +11,11 @@
     "Excel",
     "DuckDB",
     "SQL",
-    "Bash"
+    "Bash",
+    "Matplotlib",
+    "Seaborn",
+    "Plotly",
+    "Streamlit"
   ],
   "groups": [
     {
@@ -216,64 +220,8 @@
       ]
     },
     {
-      "title": "Vector Search & RAG",
-      "ko": "벡터 검색·RAG",
-      "tools": [
-        {
-          "name": "FAISS",
-          "id": "faiss",
-          "source": "Text",
-          "url": null
-        },
-        {
-          "name": "Qdrant",
-          "id": "qdrant",
-          "source": "Simple Icons",
-          "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/d4e6ba93e48f178898707f0145ec285f28b64b38/icons/qdrant.svg",
-          "color": "#DC244C"
-        },
-        {
-          "name": "Milvus",
-          "id": "milvus",
-          "source": "Simple Icons",
-          "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/d4e6ba93e48f178898707f0145ec285f28b64b38/icons/milvus.svg",
-          "color": "#00A1EA"
-        }
-      ]
-    },
-    {
-      "title": "Visualization",
-      "ko": "시각화",
-      "tools": [
-        {
-          "name": "Matplotlib",
-          "id": "matplotlib",
-          "source": "Devicon",
-          "url": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/matplotlib/matplotlib-original.svg"
-        },
-        {
-          "name": "Seaborn",
-          "id": "seaborn",
-          "source": "Official project",
-          "url": "https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-mark-lightbg.svg"
-        },
-        {
-          "name": "Plotly",
-          "id": "plotly",
-          "source": "Devicon",
-          "url": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/plotly/plotly-original.svg"
-        },
-        {
-          "name": "Streamlit",
-          "id": "streamlit",
-          "source": "Devicon",
-          "url": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/streamlit/streamlit-original.svg"
-        }
-      ]
-    },
-    {
-      "title": "Databases & Warehouses",
-      "ko": "데이터베이스·웨어하우스",
+      "title": "Databases, Warehouses & Vector Search",
+      "ko": "데이터베이스·웨어하우스·벡터 검색",
       "tools": [
         {
           "name": "PostgreSQL",
@@ -312,6 +260,26 @@
           "source": "Simple Icons",
           "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/d4e6ba93e48f178898707f0145ec285f28b64b38/icons/snowflake.svg",
           "color": "#29B5E8"
+        },
+        {
+          "name": "FAISS",
+          "id": "faiss",
+          "source": "Text",
+          "url": null
+        },
+        {
+          "name": "Qdrant",
+          "id": "qdrant",
+          "source": "Simple Icons",
+          "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/d4e6ba93e48f178898707f0145ec285f28b64b38/icons/qdrant.svg",
+          "color": "#DC244C"
+        },
+        {
+          "name": "Milvus",
+          "id": "milvus",
+          "source": "Simple Icons",
+          "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/d4e6ba93e48f178898707f0145ec285f28b64b38/icons/milvus.svg",
+          "color": "#00A1EA"
         }
       ]
     },

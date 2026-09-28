@@ -10,7 +10,7 @@ Technology selection and exact logo source URLs are recorded in [`profile/stack.
 
 - Devicon source revision: `7330accdbc47e2dc0c19789a48533c4a3c50fe58`. [MIT notice](licenses/devicon-MIT.txt).
 - Simple Icons source revision: `d4e6ba93e48f178898707f0145ec285f28b64b38`. [CC0 notice](licenses/simple-icons-CC0.txt).
-- XGBoost, LightGBM, CatBoost, LlamaIndex, Sentence Transformers, Seaborn and dbt use assets from their official project sites or repositories, linked in the manifest.
+- XGBoost, LightGBM, CatBoost, LlamaIndex, Sentence Transformers and dbt use assets from their official project sites or repositories, linked in the manifest.
 - FAISS uses a plain text label. CUDA uses the NVIDIA mark with a CUDA label.
 - Product names and marks identify the selected technologies and remain the property of their respective owners; no endorsement is implied.
 - GitHub streak cards are generated using [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats), pinned to revision `d855de1a23fe45bdda5ffbc28a6d4b80b0f107e1`. [MIT notice](licenses/streak-stats-MIT.txt).

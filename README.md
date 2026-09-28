@@ -78,24 +78,7 @@
   <img src="./assets/stack/sentence-transformers.svg" width="68" height="71" alt="Sentence Transformers" title="Sentence Transformers" />
 </p>
 
-#### Vector Search & RAG
-
-<p>
-  <img src="./assets/stack/faiss.svg" width="68" height="71" alt="FAISS" title="FAISS" />
-  <img src="./assets/stack/qdrant.svg" width="68" height="71" alt="Qdrant" title="Qdrant" />
-  <img src="./assets/stack/milvus.svg" width="68" height="71" alt="Milvus" title="Milvus" />
-</p>
-
-#### Visualization
-
-<p>
-  <img src="./assets/stack/matplotlib.svg" width="68" height="71" alt="Matplotlib" title="Matplotlib" />
-  <img src="./assets/stack/seaborn.svg" width="68" height="71" alt="Seaborn" title="Seaborn" />
-  <img src="./assets/stack/plotly.svg" width="68" height="71" alt="Plotly" title="Plotly" />
-  <img src="./assets/stack/streamlit.svg" width="68" height="71" alt="Streamlit" title="Streamlit" />
-</p>
-
-#### Databases & Warehouses
+#### Databases, Warehouses & Vector Search
 
 <p>
   <img src="./assets/stack/postgresql.svg" width="68" height="71" alt="PostgreSQL" title="PostgreSQL" />
@@ -104,6 +87,9 @@
   <img src="./assets/stack/mongodb.svg" width="68" height="71" alt="MongoDB" title="MongoDB" />
   <img src="./assets/stack/bigquery.svg" width="68" height="71" alt="BigQuery" title="BigQuery" />
   <img src="./assets/stack/snowflake.svg" width="68" height="71" alt="Snowflake" title="Snowflake" />
+  <img src="./assets/stack/faiss.svg" width="68" height="71" alt="FAISS" title="FAISS" />
+  <img src="./assets/stack/qdrant.svg" width="68" height="71" alt="Qdrant" title="Qdrant" />
+  <img src="./assets/stack/milvus.svg" width="68" height="71" alt="Milvus" title="Milvus" />
 </p>
 
 #### Data Pipelines
