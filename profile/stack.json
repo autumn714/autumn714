@@ -57,6 +57,59 @@
       ]
     },
     {
+      "title": "LLM & Generative AI",
+      "ko": "LLM·생성형 AI",
+      "tools": [
+        {
+          "name": "Hugging Face",
+          "id": "hugging-face",
+          "source": "Simple Icons",
+          "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/d4e6ba93e48f178898707f0145ec285f28b64b38/icons/huggingface.svg",
+          "color": "#FFD21E"
+        },
+        {
+          "name": "vLLM",
+          "id": "vllm",
+          "source": "Simple Icons",
+          "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/d4e6ba93e48f178898707f0145ec285f28b64b38/icons/vllm.svg",
+          "color": "#30A2FF"
+        },
+        {
+          "name": "LangChain",
+          "id": "langchain",
+          "source": "Simple Icons",
+          "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/d4e6ba93e48f178898707f0145ec285f28b64b38/icons/langchain.svg",
+          "color": "#7FC8FF"
+        },
+        {
+          "name": "LangGraph",
+          "id": "langgraph",
+          "source": "Simple Icons",
+          "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/d4e6ba93e48f178898707f0145ec285f28b64b38/icons/langgraph.svg",
+          "color": "#7FC8FF"
+        },
+        {
+          "name": "LlamaIndex",
+          "id": "llamaindex",
+          "source": "Official project",
+          "url": "https://raw.githubusercontent.com/run-llama/llama_index/main/docs/api_reference/api_reference/_static/assets/LlamaLogoBrowserTab.png"
+        },
+        {
+          "name": "Ollama",
+          "id": "ollama",
+          "source": "Simple Icons",
+          "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/d4e6ba93e48f178898707f0145ec285f28b64b38/icons/ollama.svg",
+          "color": "#000000"
+        },
+        {
+          "name": "Sentence Transformers",
+          "id": "sentence-transformers",
+          "source": "Official project",
+          "url": "https://raw.githubusercontent.com/UKPLab/sentence-transformers/main/docs/img/logo.svg"
+        }
+      ]
+    },
+    {
       "title": "Machine Learning, Deep Learning & Computer Vision",
       "ko": "머신러닝·딥러닝·컴퓨터 비전",
       "tools": [
@@ -171,59 +224,6 @@
           "id": "kafka",
           "source": "Devicon",
           "url": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/apachekafka/apachekafka-original.svg"
-        }
-      ]
-    },
-    {
-      "title": "LLM & Generative AI",
-      "ko": "LLM·생성형 AI",
-      "tools": [
-        {
-          "name": "Hugging Face",
-          "id": "hugging-face",
-          "source": "Simple Icons",
-          "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/d4e6ba93e48f178898707f0145ec285f28b64b38/icons/huggingface.svg",
-          "color": "#FFD21E"
-        },
-        {
-          "name": "vLLM",
-          "id": "vllm",
-          "source": "Simple Icons",
-          "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/d4e6ba93e48f178898707f0145ec285f28b64b38/icons/vllm.svg",
-          "color": "#30A2FF"
-        },
-        {
-          "name": "LangChain",
-          "id": "langchain",
-          "source": "Simple Icons",
-          "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/d4e6ba93e48f178898707f0145ec285f28b64b38/icons/langchain.svg",
-          "color": "#7FC8FF"
-        },
-        {
-          "name": "LangGraph",
-          "id": "langgraph",
-          "source": "Simple Icons",
-          "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/d4e6ba93e48f178898707f0145ec285f28b64b38/icons/langgraph.svg",
-          "color": "#7FC8FF"
-        },
-        {
-          "name": "LlamaIndex",
-          "id": "llamaindex",
-          "source": "Official project",
-          "url": "https://raw.githubusercontent.com/run-llama/llama_index/main/docs/api_reference/api_reference/_static/assets/LlamaLogoBrowserTab.png"
-        },
-        {
-          "name": "Ollama",
-          "id": "ollama",
-          "source": "Simple Icons",
-          "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/d4e6ba93e48f178898707f0145ec285f28b64b38/icons/ollama.svg",
-          "color": "#000000"
-        },
-        {
-          "name": "Sentence Transformers",
-          "id": "sentence-transformers",
-          "source": "Official project",
-          "url": "https://raw.githubusercontent.com/UKPLab/sentence-transformers/main/docs/img/logo.svg"
         }
       ]
     },

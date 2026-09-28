@@ -36,6 +36,18 @@
   <img src="./assets/stack/rust.svg" width="68" height="71" alt="Rust" title="Rust" />
 </p>
 
+#### LLM & Generative AI
+
+<p>
+  <img src="./assets/stack/hugging-face.svg" width="68" height="71" alt="Hugging Face" title="Hugging Face" />
+  <img src="./assets/stack/vllm.svg" width="68" height="71" alt="vLLM" title="vLLM" />
+  <img src="./assets/stack/langchain.svg" width="68" height="71" alt="LangChain" title="LangChain" />
+  <img src="./assets/stack/langgraph.svg" width="68" height="71" alt="LangGraph" title="LangGraph" />
+  <img src="./assets/stack/llamaindex.svg" width="68" height="71" alt="LlamaIndex" title="LlamaIndex" />
+  <img src="./assets/stack/ollama.svg" width="68" height="71" alt="Ollama" title="Ollama" />
+  <img src="./assets/stack/sentence-transformers.svg" width="68" height="71" alt="Sentence Transformers" title="Sentence Transformers" />
+</p>
+
 #### Machine Learning, Deep Learning & Computer Vision
 
 <p>
@@ -61,18 +73,6 @@
   <img src="./assets/stack/airflow.svg" width="68" height="71" alt="Airflow" title="Airflow" />
   <img src="./assets/stack/dbt.svg" width="68" height="71" alt="dbt" title="dbt" />
   <img src="./assets/stack/kafka.svg" width="68" height="71" alt="Kafka" title="Kafka" />
-</p>
-
-#### LLM & Generative AI
-
-<p>
-  <img src="./assets/stack/hugging-face.svg" width="68" height="71" alt="Hugging Face" title="Hugging Face" />
-  <img src="./assets/stack/vllm.svg" width="68" height="71" alt="vLLM" title="vLLM" />
-  <img src="./assets/stack/langchain.svg" width="68" height="71" alt="LangChain" title="LangChain" />
-  <img src="./assets/stack/langgraph.svg" width="68" height="71" alt="LangGraph" title="LangGraph" />
-  <img src="./assets/stack/llamaindex.svg" width="68" height="71" alt="LlamaIndex" title="LlamaIndex" />
-  <img src="./assets/stack/ollama.svg" width="68" height="71" alt="Ollama" title="Ollama" />
-  <img src="./assets/stack/sentence-transformers.svg" width="68" height="71" alt="Sentence Transformers" title="Sentence Transformers" />
 </p>
 
 #### Databases, Warehouses & Vector Search
