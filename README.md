@@ -1,4 +1,4 @@
-# Hi there, I'm arima! 👋
+# Hi there, I'm arima! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="35" alt="Waving hand" />
 
 ### AI Engineer · Data Analyst
 

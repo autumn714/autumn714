@@ -4,6 +4,8 @@
 
 The greeting, About Me, grouped technology icons, activity statistics and project layout are inspired by [ApoorvTyagi's profile](https://github.com/ApoorvTyagi). Biography, technology selection and project descriptions are specific to autumn714. The coding GIF is linked from the same [Giphy asset](https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif) used in that reference.
 
+The animated hand in the greeting uses the same [`Hi.gif` from TheDudeThatCode](https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif) as the reference profile.
+
 Technology selection and exact logo source URLs are recorded in [`profile/stack.json`](profile/stack.json). Logos are composed into local SVG tiles by [`scripts/build_stack.py`](scripts/build_stack.py).
 
 - Devicon source revision: `7330accdbc47e2dc0c19789a48533c4a3c50fe58`. [MIT notice](licenses/devicon-MIT.txt).
