@@ -1,6 +1,6 @@
 {
   "selected_on": "2026-09-29",
-  "count": 51,
+  "count": 49,
   "excluded": [
     "R",
     "OpenAI API",
@@ -15,7 +15,9 @@
     "Matplotlib",
     "Seaborn",
     "Plotly",
-    "Streamlit"
+    "Streamlit",
+    "TensorFlow",
+    "Keras"
   ],
   "groups": [
     {
@@ -55,38 +57,64 @@
       ]
     },
     {
-      "title": "Data Pipelines",
-      "ko": "데이터 파이프라인",
+      "title": "Machine Learning, Deep Learning & Computer Vision",
+      "ko": "머신러닝·딥러닝·컴퓨터 비전",
       "tools": [
         {
-          "name": "Apache Spark",
-          "id": "apache-spark",
+          "name": "scikit-learn",
+          "id": "scikit-learn",
           "source": "Devicon",
-          "url": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/apachespark/apachespark-original.svg"
+          "url": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/scikitlearn/scikitlearn-original.svg"
         },
         {
-          "name": "Airflow",
-          "id": "airflow",
-          "source": "Devicon",
-          "url": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/apacheairflow/apacheairflow-original.svg"
-        },
-        {
-          "name": "dbt",
-          "id": "dbt",
+          "name": "XGBoost",
+          "id": "xgboost",
           "source": "Official project",
-          "url": "https://raw.githubusercontent.com/dbt-labs/docs.getdbt.com/current/website/static/img/dbt-logo.svg"
+          "url": "https://xgboost.ai/images/logo/xgboost-logo-trimmed.png"
         },
         {
-          "name": "Kafka",
-          "id": "kafka",
+          "name": "LightGBM",
+          "id": "lightgbm",
+          "source": "Official project",
+          "url": "https://raw.githubusercontent.com/lightgbm-org/LightGBM/main/docs/logo/LightGBM-logo-hex.svg"
+        },
+        {
+          "name": "CatBoost",
+          "id": "catboost",
+          "source": "Official project",
+          "url": "https://raw.githubusercontent.com/catboost/catboost/master/logo/catboost.png"
+        },
+        {
+          "name": "Optuna",
+          "id": "optuna",
+          "source": "Simple Icons",
+          "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/d4e6ba93e48f178898707f0145ec285f28b64b38/icons/optuna.svg",
+          "color": "#002C76"
+        },
+        {
+          "name": "PyTorch",
+          "id": "pytorch",
           "source": "Devicon",
-          "url": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/apachekafka/apachekafka-original.svg"
+          "url": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/pytorch/pytorch-original.svg"
+        },
+        {
+          "name": "OpenCV",
+          "id": "opencv",
+          "source": "Devicon",
+          "url": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/opencv/opencv-original.svg"
+        },
+        {
+          "name": "CUDA",
+          "id": "cuda",
+          "source": "Simple Icons",
+          "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/d4e6ba93e48f178898707f0145ec285f28b64b38/icons/nvidia.svg",
+          "color": "#76B900"
         }
       ]
     },
     {
-      "title": "Data Analysis",
-      "ko": "데이터 분석",
+      "title": "Data Analysis & Pipelines",
+      "ko": "데이터 분석·파이프라인",
       "tools": [
         {
           "name": "pandas",
@@ -119,80 +147,30 @@
           "source": "Simple Icons",
           "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/d4e6ba93e48f178898707f0145ec285f28b64b38/icons/polars.svg",
           "color": "#0075FF"
-        }
-      ]
-    },
-    {
-      "title": "Machine Learning",
-      "ko": "머신러닝",
-      "tools": [
-        {
-          "name": "scikit-learn",
-          "id": "scikit-learn",
-          "source": "Devicon",
-          "url": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/scikitlearn/scikitlearn-original.svg"
         },
         {
-          "name": "XGBoost",
-          "id": "xgboost",
+          "name": "Apache Spark",
+          "id": "apache-spark",
+          "source": "Devicon",
+          "url": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/apachespark/apachespark-original.svg"
+        },
+        {
+          "name": "Airflow",
+          "id": "airflow",
+          "source": "Devicon",
+          "url": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/apacheairflow/apacheairflow-original.svg"
+        },
+        {
+          "name": "dbt",
+          "id": "dbt",
           "source": "Official project",
-          "url": "https://xgboost.ai/images/logo/xgboost-logo-trimmed.png"
+          "url": "https://raw.githubusercontent.com/dbt-labs/docs.getdbt.com/current/website/static/img/dbt-logo.svg"
         },
         {
-          "name": "LightGBM",
-          "id": "lightgbm",
-          "source": "Official project",
-          "url": "https://raw.githubusercontent.com/lightgbm-org/LightGBM/main/docs/logo/LightGBM-logo-hex.svg"
-        },
-        {
-          "name": "CatBoost",
-          "id": "catboost",
-          "source": "Official project",
-          "url": "https://raw.githubusercontent.com/catboost/catboost/master/logo/catboost.png"
-        },
-        {
-          "name": "Optuna",
-          "id": "optuna",
-          "source": "Simple Icons",
-          "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/d4e6ba93e48f178898707f0145ec285f28b64b38/icons/optuna.svg",
-          "color": "#002C76"
-        }
-      ]
-    },
-    {
-      "title": "Deep Learning & Computer Vision",
-      "ko": "딥러닝·컴퓨터 비전",
-      "tools": [
-        {
-          "name": "PyTorch",
-          "id": "pytorch",
+          "name": "Kafka",
+          "id": "kafka",
           "source": "Devicon",
-          "url": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/pytorch/pytorch-original.svg"
-        },
-        {
-          "name": "OpenCV",
-          "id": "opencv",
-          "source": "Devicon",
-          "url": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/opencv/opencv-original.svg"
-        },
-        {
-          "name": "TensorFlow",
-          "id": "tensorflow",
-          "source": "Devicon",
-          "url": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/tensorflow/tensorflow-original.svg"
-        },
-        {
-          "name": "Keras",
-          "id": "keras",
-          "source": "Devicon",
-          "url": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/keras/keras-original.svg"
-        },
-        {
-          "name": "CUDA",
-          "id": "cuda",
-          "source": "Simple Icons",
-          "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/d4e6ba93e48f178898707f0145ec285f28b64b38/icons/nvidia.svg",
-          "color": "#76B900"
+          "url": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/apachekafka/apachekafka-original.svg"
         }
       ]
     },

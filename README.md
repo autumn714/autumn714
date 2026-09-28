@@ -36,26 +36,7 @@
   <img src="./assets/stack/rust.svg" width="68" height="71" alt="Rust" title="Rust" />
 </p>
 
-#### Data Pipelines
-
-<p>
-  <img src="./assets/stack/apache-spark.svg" width="68" height="71" alt="Apache Spark" title="Apache Spark" />
-  <img src="./assets/stack/airflow.svg" width="68" height="71" alt="Airflow" title="Airflow" />
-  <img src="./assets/stack/dbt.svg" width="68" height="71" alt="dbt" title="dbt" />
-  <img src="./assets/stack/kafka.svg" width="68" height="71" alt="Kafka" title="Kafka" />
-</p>
-
-#### Data Analysis
-
-<p>
-  <img src="./assets/stack/pandas.svg" width="68" height="71" alt="pandas" title="pandas" />
-  <img src="./assets/stack/numpy.svg" width="68" height="71" alt="NumPy" title="NumPy" />
-  <img src="./assets/stack/jupyter.svg" width="68" height="71" alt="Jupyter" title="Jupyter" />
-  <img src="./assets/stack/scipy.svg" width="68" height="71" alt="SciPy" title="SciPy" />
-  <img src="./assets/stack/polars.svg" width="68" height="71" alt="Polars" title="Polars" />
-</p>
-
-#### Machine Learning
+#### Machine Learning, Deep Learning & Computer Vision
 
 <p>
   <img src="./assets/stack/scikit-learn.svg" width="68" height="71" alt="scikit-learn" title="scikit-learn" />
@@ -63,16 +44,23 @@
   <img src="./assets/stack/lightgbm.svg" width="68" height="71" alt="LightGBM" title="LightGBM" />
   <img src="./assets/stack/catboost.svg" width="68" height="71" alt="CatBoost" title="CatBoost" />
   <img src="./assets/stack/optuna.svg" width="68" height="71" alt="Optuna" title="Optuna" />
-</p>
-
-#### Deep Learning & Computer Vision
-
-<p>
   <img src="./assets/stack/pytorch.svg" width="68" height="71" alt="PyTorch" title="PyTorch" />
   <img src="./assets/stack/opencv.svg" width="68" height="71" alt="OpenCV" title="OpenCV" />
-  <img src="./assets/stack/tensorflow.svg" width="68" height="71" alt="TensorFlow" title="TensorFlow" />
-  <img src="./assets/stack/keras.svg" width="68" height="71" alt="Keras" title="Keras" />
   <img src="./assets/stack/cuda.svg" width="68" height="71" alt="CUDA" title="CUDA" />
+</p>
+
+#### Data Analysis & Pipelines
+
+<p>
+  <img src="./assets/stack/pandas.svg" width="68" height="71" alt="pandas" title="pandas" />
+  <img src="./assets/stack/numpy.svg" width="68" height="71" alt="NumPy" title="NumPy" />
+  <img src="./assets/stack/jupyter.svg" width="68" height="71" alt="Jupyter" title="Jupyter" />
+  <img src="./assets/stack/scipy.svg" width="68" height="71" alt="SciPy" title="SciPy" />
+  <img src="./assets/stack/polars.svg" width="68" height="71" alt="Polars" title="Polars" />
+  <img src="./assets/stack/apache-spark.svg" width="68" height="71" alt="Apache Spark" title="Apache Spark" />
+  <img src="./assets/stack/airflow.svg" width="68" height="71" alt="Airflow" title="Airflow" />
+  <img src="./assets/stack/dbt.svg" width="68" height="71" alt="dbt" title="dbt" />
+  <img src="./assets/stack/kafka.svg" width="68" height="71" alt="Kafka" title="Kafka" />
 </p>
 
 #### LLM & Generative AI
