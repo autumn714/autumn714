@@ -36,6 +36,15 @@
   <img src="./assets/stack/rust.svg" width="68" height="71" alt="Rust" title="Rust" />
 </p>
 
+#### Data Pipelines
+
+<p>
+  <img src="./assets/stack/apache-spark.svg" width="68" height="71" alt="Apache Spark" title="Apache Spark" />
+  <img src="./assets/stack/airflow.svg" width="68" height="71" alt="Airflow" title="Airflow" />
+  <img src="./assets/stack/dbt.svg" width="68" height="71" alt="dbt" title="dbt" />
+  <img src="./assets/stack/kafka.svg" width="68" height="71" alt="Kafka" title="Kafka" />
+</p>
+
 #### Data Analysis
 
 <p>
@@ -90,15 +99,6 @@
   <img src="./assets/stack/faiss.svg" width="68" height="71" alt="FAISS" title="FAISS" />
   <img src="./assets/stack/qdrant.svg" width="68" height="71" alt="Qdrant" title="Qdrant" />
   <img src="./assets/stack/milvus.svg" width="68" height="71" alt="Milvus" title="Milvus" />
-</p>
-
-#### Data Pipelines
-
-<p>
-  <img src="./assets/stack/apache-spark.svg" width="68" height="71" alt="Apache Spark" title="Apache Spark" />
-  <img src="./assets/stack/airflow.svg" width="68" height="71" alt="Airflow" title="Airflow" />
-  <img src="./assets/stack/dbt.svg" width="68" height="71" alt="dbt" title="dbt" />
-  <img src="./assets/stack/kafka.svg" width="68" height="71" alt="Kafka" title="Kafka" />
 </p>
 
 #### Development, Deployment & Operations

@@ -55,6 +55,36 @@
       ]
     },
     {
+      "title": "Data Pipelines",
+      "ko": "데이터 파이프라인",
+      "tools": [
+        {
+          "name": "Apache Spark",
+          "id": "apache-spark",
+          "source": "Devicon",
+          "url": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/apachespark/apachespark-original.svg"
+        },
+        {
+          "name": "Airflow",
+          "id": "airflow",
+          "source": "Devicon",
+          "url": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/apacheairflow/apacheairflow-original.svg"
+        },
+        {
+          "name": "dbt",
+          "id": "dbt",
+          "source": "Official project",
+          "url": "https://raw.githubusercontent.com/dbt-labs/docs.getdbt.com/current/website/static/img/dbt-logo.svg"
+        },
+        {
+          "name": "Kafka",
+          "id": "kafka",
+          "source": "Devicon",
+          "url": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/apachekafka/apachekafka-original.svg"
+        }
+      ]
+    },
+    {
       "title": "Data Analysis",
       "ko": "데이터 분석",
       "tools": [
@@ -280,36 +310,6 @@
           "source": "Simple Icons",
           "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/d4e6ba93e48f178898707f0145ec285f28b64b38/icons/milvus.svg",
           "color": "#00A1EA"
-        }
-      ]
-    },
-    {
-      "title": "Data Pipelines",
-      "ko": "데이터 파이프라인",
-      "tools": [
-        {
-          "name": "Apache Spark",
-          "id": "apache-spark",
-          "source": "Devicon",
-          "url": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/apachespark/apachespark-original.svg"
-        },
-        {
-          "name": "Airflow",
-          "id": "airflow",
-          "source": "Devicon",
-          "url": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/apacheairflow/apacheairflow-original.svg"
-        },
-        {
-          "name": "dbt",
-          "id": "dbt",
-          "source": "Official project",
-          "url": "https://raw.githubusercontent.com/dbt-labs/docs.getdbt.com/current/website/static/img/dbt-logo.svg"
-        },
-        {
-          "name": "Kafka",
-          "id": "kafka",
-          "source": "Devicon",
-          "url": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/apachekafka/apachekafka-original.svg"
         }
       ]
     },
