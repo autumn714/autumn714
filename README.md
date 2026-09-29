@@ -120,16 +120,16 @@
 
 ```text
 Morning        0 commits  ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 %
-Daytime        1 commits  ██░░░░░░░░░░░░░░░░░░░░░░░   7.69 %
-Evening        3 commits  ██████░░░░░░░░░░░░░░░░░░░  23.08 %
-Night          9 commits  █████████████████░░░░░░░░  69.23 %
+Daytime        1 commits  █░░░░░░░░░░░░░░░░░░░░░░░░   5.56 %
+Evening        3 commits  ████░░░░░░░░░░░░░░░░░░░░░  16.67 %
+Night         14 commits  ███████████████████░░░░░░  77.78 %
 ```
 
 **📅 Commits by Day of Week**
 
 ```text
-Monday         3 commits  ██████░░░░░░░░░░░░░░░░░░░  23.08 %
-Tuesday       10 commits  ███████████████████░░░░░░  76.92 %
+Monday         3 commits  ████░░░░░░░░░░░░░░░░░░░░░  16.67 %
+Tuesday       15 commits  █████████████████████░░░░  83.33 %
 Wednesday      0 commits  ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 %
 Thursday       0 commits  ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 %
 Friday         0 commits  ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 %
@@ -137,7 +137,7 @@ Saturday       0 commits  ░░░░░░░░░░░░░░░░░░
 Sunday         0 commits  ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 %
 ```
 
-<sub>Public commits · KST (UTC+9) · 13 commits · Updated 2026-09-29</sub>
+<sub>Public commits · KST (UTC+9) · 18 commits · Updated 2026-09-29</sub>
 
 <details>
 <summary>집계 기준</summary>
