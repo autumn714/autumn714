@@ -137,7 +137,7 @@ Saturday       0 commits  ░░░░░░░░░░░░░░░░░░
 Sunday         0 commits  ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 %
 ```
 
-<sub>Public commits · KST (UTC+9) · 18 commits · Updated 2026-09-29</sub>
+<sub>Public commits · KST (UTC+9) · 18 commits · Updated 2026-09-30</sub>
 
 <details>
 <summary>집계 기준</summary>
@@ -168,13 +168,13 @@ Sunday         0 commits  ░░░░░░░░░░░░░░░░░░
 <!-- WISDOM:START -->
 ### 📜 오늘의 사자성어
 
-<img src="https://raw.githubusercontent.com/autumn714/autumn714/main/assets/daily-idiom.svg?v=accccd47f807" width="640" alt="일취월장 (日就月將): 날마다 달마다 꾸준히 나아지고 발전함." />
+<img src="https://raw.githubusercontent.com/autumn714/autumn714/main/assets/daily-idiom.svg?v=5d6d8bdd2d09" width="640" alt="온고지신 (溫故知新): 옛것을 익히고 이를 통해 새로운 것을 앎." />
 
 ### 🌿 오늘의 한국 속담
 
-<img src="https://raw.githubusercontent.com/autumn714/autumn714/main/assets/daily-proverb.svg?v=a44520b8eb6e" width="640" alt="천 리 길도 한 걸음부터: 큰일도 작은 시작에서 이루어진다." />
+<img src="https://raw.githubusercontent.com/autumn714/autumn714/main/assets/daily-proverb.svg?v=c45bdfd71cd0" width="640" alt="티끌 모아 태산: 작은 것도 꾸준히 모으면 큰 것이 된다." />
 
-<sub>한국 시간 기준 매일 새로운 한마디 · 2026-09-29</sub>
+<sub>한국 시간 기준 매일 새로운 한마디 · 2026-09-30</sub>
 <!-- WISDOM:END -->
 
 <p align="center">
