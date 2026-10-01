@@ -137,7 +137,7 @@ Saturday       0 commits  ░░░░░░░░░░░░░░░░░░
 Sunday         0 commits  ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 %
 ```
 
-<sub>Public commits · KST (UTC+9) · 18 commits · Updated 2026-09-30</sub>
+<sub>Public commits · KST (UTC+9) · 18 commits · Updated 2026-10-01</sub>
 
 <details>
 <summary>집계 기준</summary>
@@ -168,13 +168,13 @@ Sunday         0 commits  ░░░░░░░░░░░░░░░░░░
 <!-- WISDOM:START -->
 ### 📜 오늘의 사자성어
 
-<img src="https://raw.githubusercontent.com/autumn714/autumn714/main/assets/daily-idiom.svg?v=5d6d8bdd2d09" width="640" alt="온고지신 (溫故知新): 옛것을 익히고 이를 통해 새로운 것을 앎." />
+<img src="https://raw.githubusercontent.com/autumn714/autumn714/main/assets/daily-idiom.svg?v=f724773eb388" width="640" alt="절차탁마 (切磋琢磨): 학문과 덕행을 부지런히 갈고닦음." />
 
 ### 🌿 오늘의 한국 속담
 
-<img src="https://raw.githubusercontent.com/autumn714/autumn714/main/assets/daily-proverb.svg?v=c45bdfd71cd0" width="640" alt="티끌 모아 태산: 작은 것도 꾸준히 모으면 큰 것이 된다." />
+<img src="https://raw.githubusercontent.com/autumn714/autumn714/main/assets/daily-proverb.svg?v=c135fb9318cc" width="640" alt="돌다리도 두들겨 보고 건너라: 확실해 보여도 다시 살피고 신중히 행동하라." />
 
-<sub>한국 시간 기준 매일 새로운 한마디 · 2026-09-30</sub>
+<sub>한국 시간 기준 매일 새로운 한마디 · 2026-10-01</sub>
 <!-- WISDOM:END -->
 
 <p align="center">
