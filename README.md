@@ -137,7 +137,7 @@ Saturday       0 commits  ░░░░░░░░░░░░░░░░░░
 Sunday         0 commits  ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 %
 ```
 
-<sub>Public commits · KST (UTC+9) · 18 commits · Updated 2026-10-01</sub>
+<sub>Public commits · KST (UTC+9) · 18 commits · Updated 2026-10-02</sub>
 
 <details>
 <summary>집계 기준</summary>
@@ -168,13 +168,13 @@ Sunday         0 commits  ░░░░░░░░░░░░░░░░░░
 <!-- WISDOM:START -->
 ### 📜 오늘의 사자성어
 
-<img src="https://raw.githubusercontent.com/autumn714/autumn714/main/assets/daily-idiom.svg?v=f724773eb388" width="640" alt="절차탁마 (切磋琢磨): 학문과 덕행을 부지런히 갈고닦음." />
+<img src="https://raw.githubusercontent.com/autumn714/autumn714/main/assets/daily-idiom.svg?v=51ec8b25928e" width="640" alt="우공이산 (愚公移山): 꾸준히 노력하면 큰일도 이룰 수 있음." />
 
 ### 🌿 오늘의 한국 속담
 
-<img src="https://raw.githubusercontent.com/autumn714/autumn714/main/assets/daily-proverb.svg?v=c135fb9318cc" width="640" alt="돌다리도 두들겨 보고 건너라: 확실해 보여도 다시 살피고 신중히 행동하라." />
+<img src="https://raw.githubusercontent.com/autumn714/autumn714/main/assets/daily-proverb.svg?v=117a3a1c382a" width="640" alt="백지장도 맞들면 낫다: 쉬운 일도 함께 힘을 모으면 더 잘할 수 있다." />
 
-<sub>한국 시간 기준 매일 새로운 한마디 · 2026-10-01</sub>
+<sub>한국 시간 기준 매일 새로운 한마디 · 2026-10-02</sub>
 <!-- WISDOM:END -->
 
 <p align="center">
