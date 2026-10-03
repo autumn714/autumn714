@@ -137,7 +137,7 @@ Saturday       0 commits  ░░░░░░░░░░░░░░░░░░
 Sunday         0 commits  ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 %
 ```
 
-<sub>Public commits · KST (UTC+9) · 18 commits · Updated 2026-10-02</sub>
+<sub>Public commits · KST (UTC+9) · 18 commits · Updated 2026-10-03</sub>
 
 <details>
 <summary>집계 기준</summary>
@@ -168,13 +168,13 @@ Sunday         0 commits  ░░░░░░░░░░░░░░░░░░
 <!-- WISDOM:START -->
 ### 📜 오늘의 사자성어
 
-<img src="https://raw.githubusercontent.com/autumn714/autumn714/main/assets/daily-idiom.svg?v=51ec8b25928e" width="640" alt="우공이산 (愚公移山): 꾸준히 노력하면 큰일도 이룰 수 있음." />
+<img src="https://raw.githubusercontent.com/autumn714/autumn714/main/assets/daily-idiom.svg?v=a625f8f4c899" width="640" alt="수적천석 (水滴穿石): 작은 노력도 꾸준히 쌓이면 큰일을 이룸." />
 
 ### 🌿 오늘의 한국 속담
 
-<img src="https://raw.githubusercontent.com/autumn714/autumn714/main/assets/daily-proverb.svg?v=117a3a1c382a" width="640" alt="백지장도 맞들면 낫다: 쉬운 일도 함께 힘을 모으면 더 잘할 수 있다." />
+<img src="https://raw.githubusercontent.com/autumn714/autumn714/main/assets/daily-proverb.svg?v=ad1edde5d013" width="640" alt="구슬이 서 말이라도 꿰어야 보배: 좋은 재료도 잘 다듬고 활용해야 가치가 있다." />
 
-<sub>한국 시간 기준 매일 새로운 한마디 · 2026-10-02</sub>
+<sub>한국 시간 기준 매일 새로운 한마디 · 2026-10-03</sub>
 <!-- WISDOM:END -->
 
 <p align="center">
