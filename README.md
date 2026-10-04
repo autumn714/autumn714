@@ -137,7 +137,7 @@ Saturday       0 commits  ░░░░░░░░░░░░░░░░░░
 Sunday         0 commits  ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 %
 ```
 
-<sub>Public commits · KST (UTC+9) · 18 commits · Updated 2026-10-03</sub>
+<sub>Public commits · KST (UTC+9) · 18 commits · Updated 2026-10-04</sub>
 
 <details>
 <summary>집계 기준</summary>
@@ -168,13 +168,13 @@ Sunday         0 commits  ░░░░░░░░░░░░░░░░░░
 <!-- WISDOM:START -->
 ### 📜 오늘의 사자성어
 
-<img src="https://raw.githubusercontent.com/autumn714/autumn714/main/assets/daily-idiom.svg?v=a625f8f4c899" width="640" alt="수적천석 (水滴穿石): 작은 노력도 꾸준히 쌓이면 큰일을 이룸." />
+<img src="https://raw.githubusercontent.com/autumn714/autumn714/main/assets/daily-idiom.svg?v=59fcd8d43a04" width="640" alt="마부작침 (磨斧作針): 끈기 있게 노력하면 어려운 일도 이룰 수 있음." />
 
 ### 🌿 오늘의 한국 속담
 
-<img src="https://raw.githubusercontent.com/autumn714/autumn714/main/assets/daily-proverb.svg?v=ad1edde5d013" width="640" alt="구슬이 서 말이라도 꿰어야 보배: 좋은 재료도 잘 다듬고 활용해야 가치가 있다." />
+<img src="https://raw.githubusercontent.com/autumn714/autumn714/main/assets/daily-proverb.svg?v=8025e6f6544d" width="640" alt="시작이 반이다: 일을 시작하면 이루는 길이 그만큼 가까워진다." />
 
-<sub>한국 시간 기준 매일 새로운 한마디 · 2026-10-03</sub>
+<sub>한국 시간 기준 매일 새로운 한마디 · 2026-10-04</sub>
 <!-- WISDOM:END -->
 
 <p align="center">
