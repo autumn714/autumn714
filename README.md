@@ -137,7 +137,7 @@ Saturday       0 commits  ░░░░░░░░░░░░░░░░░░
 Sunday         0 commits  ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 %
 ```
 
-<sub>Public commits · KST (UTC+9) · 18 commits · Updated 2026-10-05</sub>
+<sub>Public commits · KST (UTC+9) · 18 commits · Updated 2026-10-06</sub>
 
 <details>
 <summary>집계 기준</summary>
@@ -168,13 +168,13 @@ Sunday         0 commits  ░░░░░░░░░░░░░░░░░░
 <!-- WISDOM:START -->
 ### 📜 오늘의 사자성어
 
-<img src="https://raw.githubusercontent.com/autumn714/autumn714/main/assets/daily-idiom.svg?v=38cbf5e705b8" width="640" alt="유비무환 (有備無患): 미리 준비해 두면 걱정할 일이 없음." />
+<img src="https://raw.githubusercontent.com/autumn714/autumn714/main/assets/daily-idiom.svg?v=c15aacd6a45c" width="640" alt="유지경성 (有志竟成): 뜻을 세우고 노력하면 마침내 이룸." />
 
 ### 🌿 오늘의 한국 속담
 
-<img src="https://raw.githubusercontent.com/autumn714/autumn714/main/assets/daily-proverb.svg?v=71f79b7d5540" width="640" alt="호랑이도 제 말 하면 온다: 누군가를 이야기하는데 마침 그 사람이 나타난다." />
+<img src="https://raw.githubusercontent.com/autumn714/autumn714/main/assets/daily-proverb.svg?v=fd49af8d6c89" width="640" alt="가는 말이 고와야 오는 말이 곱다: 남에게 좋게 말해야 좋은 말을 듣게 된다." />
 
-<sub>한국 시간 기준 매일 새로운 한마디 · 2026-10-05</sub>
+<sub>한국 시간 기준 매일 새로운 한마디 · 2026-10-06</sub>
 <!-- WISDOM:END -->
 
 <p align="center">
