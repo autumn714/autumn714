@@ -119,25 +119,25 @@
 **🕒 Commits by Time of Day**
 
 ```text
-Morning        0 commits  ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 %
-Daytime        1 commits  █░░░░░░░░░░░░░░░░░░░░░░░░   5.56 %
-Evening        3 commits  ████░░░░░░░░░░░░░░░░░░░░░  16.67 %
-Night         14 commits  ███████████████████░░░░░░  77.78 %
+Morning        2 commits  ██░░░░░░░░░░░░░░░░░░░░░░░   6.25 %
+Daytime       10 commits  ████████░░░░░░░░░░░░░░░░░  31.25 %
+Evening        6 commits  █████░░░░░░░░░░░░░░░░░░░░  18.75 %
+Night         14 commits  ███████████░░░░░░░░░░░░░░  43.75 %
 ```
 
 **📅 Commits by Day of Week**
 
 ```text
-Monday         3 commits  ████░░░░░░░░░░░░░░░░░░░░░  16.67 %
-Tuesday       15 commits  █████████████████████░░░░  83.33 %
-Wednesday      0 commits  ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 %
+Monday         4 commits  ███░░░░░░░░░░░░░░░░░░░░░░  12.50 %
+Tuesday       27 commits  █████████████████████░░░░  84.38 %
+Wednesday      1 commits  █░░░░░░░░░░░░░░░░░░░░░░░░   3.12 %
 Thursday       0 commits  ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 %
 Friday         0 commits  ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 %
 Saturday       0 commits  ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 %
 Sunday         0 commits  ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 %
 ```
 
-<sub>Public commits · KST (UTC+9) · 18 commits · Updated 2026-10-06</sub>
+<sub>Public commits · KST (UTC+9) · 32 commits · Updated 2026-10-07</sub>
 
 <details>
 <summary>집계 기준</summary>
@@ -168,13 +168,13 @@ Sunday         0 commits  ░░░░░░░░░░░░░░░░░░
 <!-- WISDOM:START -->
 ### 📜 오늘의 사자성어
 
-<img src="https://raw.githubusercontent.com/autumn714/autumn714/main/assets/daily-idiom.svg?v=c15aacd6a45c" width="640" alt="유지경성 (有志竟成): 뜻을 세우고 노력하면 마침내 이룸." />
+<img src="https://raw.githubusercontent.com/autumn714/autumn714/main/assets/daily-idiom.svg?v=7c2821126be0" width="640" alt="교학상장 (敎學相長): 가르치고 배우며 서로 성장함." />
 
 ### 🌿 오늘의 한국 속담
 
-<img src="https://raw.githubusercontent.com/autumn714/autumn714/main/assets/daily-proverb.svg?v=fd49af8d6c89" width="640" alt="가는 말이 고와야 오는 말이 곱다: 남에게 좋게 말해야 좋은 말을 듣게 된다." />
+<img src="https://raw.githubusercontent.com/autumn714/autumn714/main/assets/daily-proverb.svg?v=e5fc20e248be" width="640" alt="원숭이도 나무에서 떨어진다: 아무리 익숙하고 잘하는 사람도 실수할 수 있다." />
 
-<sub>한국 시간 기준 매일 새로운 한마디 · 2026-10-06</sub>
+<sub>한국 시간 기준 매일 새로운 한마디 · 2026-10-07</sub>
 <!-- WISDOM:END -->
 
 <p align="center">
