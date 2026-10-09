@@ -137,7 +137,7 @@ Saturday       0 commits  ░░░░░░░░░░░░░░░░░░
 Sunday         0 commits  ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 %
 ```
 
-<sub>Public commits · KST (UTC+9) · 32 commits · Updated 2026-10-08</sub>
+<sub>Public commits · KST (UTC+9) · 32 commits · Updated 2026-10-09</sub>
 
 <details>
 <summary>집계 기준</summary>
@@ -168,13 +168,13 @@ Sunday         0 commits  ░░░░░░░░░░░░░░░░░░
 <!-- WISDOM:START -->
 ### 📜 오늘의 사자성어
 
-<img src="https://raw.githubusercontent.com/autumn714/autumn714/main/assets/daily-idiom.svg?v=078633e36411" width="640" alt="형설지공 (螢雪之功): 어려운 환경에서도 부지런히 공부한 보람." />
+<img src="https://raw.githubusercontent.com/autumn714/autumn714/main/assets/daily-idiom.svg?v=655a075e30a2" width="640" alt="지행합일 (知行合一): 앎과 실천이 하나를 이룸." />
 
 ### 🌿 오늘의 한국 속담
 
-<img src="https://raw.githubusercontent.com/autumn714/autumn714/main/assets/daily-proverb.svg?v=a5f5e8961f71" width="640" alt="아는 길도 물어 가라: 잘 아는 일도 확인하고 조심하면 실수를 줄인다." />
+<img src="https://raw.githubusercontent.com/autumn714/autumn714/main/assets/daily-proverb.svg?v=7357539c2748" width="640" alt="세 살 버릇 여든까지 간다: 어릴 때 익힌 습관은 오래도록 남는다." />
 
-<sub>한국 시간 기준 매일 새로운 한마디 · 2026-10-08</sub>
+<sub>한국 시간 기준 매일 새로운 한마디 · 2026-10-09</sub>
 <!-- WISDOM:END -->
 
 <p align="center">
