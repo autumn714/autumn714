@@ -137,7 +137,7 @@ Saturday       0 commits  ░░░░░░░░░░░░░░░░░░
 Sunday         0 commits  ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 %
 ```
 
-<sub>Public commits · KST (UTC+9) · 32 commits · Updated 2026-10-09</sub>
+<sub>Public commits · KST (UTC+9) · 32 commits · Updated 2026-10-10</sub>
 
 <details>
 <summary>집계 기준</summary>
@@ -168,13 +168,13 @@ Sunday         0 commits  ░░░░░░░░░░░░░░░░░░
 <!-- WISDOM:START -->
 ### 📜 오늘의 사자성어
 
-<img src="https://raw.githubusercontent.com/autumn714/autumn714/main/assets/daily-idiom.svg?v=655a075e30a2" width="640" alt="지행합일 (知行合一): 앎과 실천이 하나를 이룸." />
+<img src="https://raw.githubusercontent.com/autumn714/autumn714/main/assets/daily-idiom.svg?v=862eb4600092" width="640" alt="대기만성 (大器晩成): 큰 인물은 오랜 노력 끝에 이루어짐." />
 
 ### 🌿 오늘의 한국 속담
 
-<img src="https://raw.githubusercontent.com/autumn714/autumn714/main/assets/daily-proverb.svg?v=7357539c2748" width="640" alt="세 살 버릇 여든까지 간다: 어릴 때 익힌 습관은 오래도록 남는다." />
+<img src="https://raw.githubusercontent.com/autumn714/autumn714/main/assets/daily-proverb.svg?v=5bb613b6f48e" width="640" alt="낮말은 새가 듣고 밤말은 쥐가 듣는다: 듣는 이가 없어 보여도 말은 늘 신중히 해야 한다." />
 
-<sub>한국 시간 기준 매일 새로운 한마디 · 2026-10-09</sub>
+<sub>한국 시간 기준 매일 새로운 한마디 · 2026-10-10</sub>
 <!-- WISDOM:END -->
 
 <p align="center">
