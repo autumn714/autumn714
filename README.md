@@ -137,7 +137,7 @@ Saturday       0 commits  ░░░░░░░░░░░░░░░░░░
 Sunday         0 commits  ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 %
 ```
 
-<sub>Public commits · KST (UTC+9) · 32 commits · Updated 2026-10-10</sub>
+<sub>Public commits · KST (UTC+9) · 32 commits · Updated 2026-10-11</sub>
 
 <details>
 <summary>집계 기준</summary>
@@ -168,13 +168,13 @@ Sunday         0 commits  ░░░░░░░░░░░░░░░░░░
 <!-- WISDOM:START -->
 ### 📜 오늘의 사자성어
 
-<img src="https://raw.githubusercontent.com/autumn714/autumn714/main/assets/daily-idiom.svg?v=862eb4600092" width="640" alt="대기만성 (大器晩成): 큰 인물은 오랜 노력 끝에 이루어짐." />
+<img src="https://raw.githubusercontent.com/autumn714/autumn714/main/assets/daily-idiom.svg?v=accccd47f807" width="640" alt="일취월장 (日就月將): 날마다 달마다 꾸준히 나아지고 발전함." />
 
 ### 🌿 오늘의 한국 속담
 
-<img src="https://raw.githubusercontent.com/autumn714/autumn714/main/assets/daily-proverb.svg?v=5bb613b6f48e" width="640" alt="낮말은 새가 듣고 밤말은 쥐가 듣는다: 듣는 이가 없어 보여도 말은 늘 신중히 해야 한다." />
+<img src="https://raw.githubusercontent.com/autumn714/autumn714/main/assets/daily-proverb.svg?v=a44520b8eb6e" width="640" alt="천 리 길도 한 걸음부터: 큰일도 작은 시작에서 이루어진다." />
 
-<sub>한국 시간 기준 매일 새로운 한마디 · 2026-10-10</sub>
+<sub>한국 시간 기준 매일 새로운 한마디 · 2026-10-11</sub>
 <!-- WISDOM:END -->
 
 <p align="center">
