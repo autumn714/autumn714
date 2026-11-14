@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="120" viewBox="0 0 640 120" role="img" aria-labelledby="title">
-<title id="title">아는 길도 물어 가라 — 잘 아는 일도 확인하고 조심하면 실수를 줄인다.</title>
+<title id="title">세 살 버릇 여든까지 간다 — 어릴 때 익힌 습관은 오래도록 남는다.</title>
 <rect x=".5" y=".5" width="639" height="119" rx="10" fill="#151515" stroke="#424242"/>
 <rect x="24" y="20" width="3" height="80" rx="1.5" fill="#76c7b7"/>
 <g font-family="Malgun Gothic, Apple SD Gothic Neo, Noto Sans CJK KR, sans-serif">
 <text x="44" y="31" font-size="14" fill="#76c7b7">한국 속담</text>
-<text x="44" y="66" font-size="22" font-weight="700" fill="#f4f4f5">아는 길도 물어 가라</text>
-<text x="44" y="94" font-size="14" fill="#c4c4cc">잘 아는 일도 확인하고 조심하면 실수를 줄인다.</text>
+<text x="44" y="66" font-size="22" font-weight="700" fill="#f4f4f5">세 살 버릇 여든까지 간다</text>
+<text x="44" y="94" font-size="14" fill="#c4c4cc">어릴 때 익힌 습관은 오래도록 남는다.</text>
 </g>
 </svg>
